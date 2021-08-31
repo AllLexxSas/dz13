@@ -72,6 +72,7 @@ int next_move(int str_matrix)
     }
     return - 1;
 }
+//Задание 2
 //Обход графа в глубина через стек
 void depth_travers_stask(int st, stack* s)
 {
